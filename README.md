@@ -7,3 +7,12 @@ this project has 3cparts:
 * get data
 * Exploratory Data Analysis (EDA)
 * Visualization
+
+I got data using Yahoo Finance datareader. We will get stock information for the following banks:
+
+*  Bank of America
+* CitiGroup
+* Goldman Sachs
+* JPMorgan Chase
+* Morgan Stanley
+* Wells Fargo
