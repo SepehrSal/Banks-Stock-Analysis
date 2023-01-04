@@ -26,5 +26,22 @@ Exploratory data analysis (EDA)
 Visualization
 
 * Close price for each bank for the entire index of time
-* ![close](https://user-images.githubusercontent.com/121250443/210488215-8846e7ee-92b0-44a6-a0ec-48fac4e66160.png)
+ ![newplot (1)](https://user-images.githubusercontent.com/121250443/210488407-e1bfa9d4-18d8-457d-a776-1096002bf439.png)
+ 
+ * moving averages for stocks in the year 2008
+ ![moving average](https://user-images.githubusercontent.com/121250443/210488507-12180ff6-4979-420f-b610-f06024b3c47b.png)
+
+*clustermap of correlation the stocks close price
+![cluster](https://user-images.githubusercontent.com/121250443/210488666-aebb378e-b5f3-459d-8251-2f503bc25846.png)
+
+*Technical Analysis plots  from candle plot of Bank of America's stock
+![newplot (2)](https://user-images.githubusercontent.com/121250443/210488781-4fa1c5f2-ee57-4db7-8d49-8fbc61d856b1.png)
+
+
+this was one of the projects of Udemy Python for Data Science and Machine Learning Bootcamp
+
+
+
+
+
 
