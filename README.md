@@ -16,3 +16,15 @@ I got data using Yahoo Finance datareader. We will get stock information for the
 * JPMorgan Chase
 * Morgan Stanley
 * Wells Fargo
+
+Exploratory data analysis (EDA)
+
+* calculating the Return for each bank's stock
+* the riskiest stock over the entire time period
+* calculating the moving averages for stocks
+
+Visualization
+
+* Close price for each bank for the entire index of time
+* ![close](https://user-images.githubusercontent.com/121250443/210488215-8846e7ee-92b0-44a6-a0ec-48fac4e66160.png)
+
