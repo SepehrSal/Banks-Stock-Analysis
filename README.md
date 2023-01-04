@@ -39,7 +39,7 @@ Visualization
 
 ![cluster](https://user-images.githubusercontent.com/121250443/210488666-aebb378e-b5f3-459d-8251-2f503bc25846.png)
 
-*Technical Analysis plots  from candle plot of Bank of America's stock
+* Technical Analysis plots  from candle plot of Bank of America's stock
 
 ![newplot (2)](https://user-images.githubusercontent.com/121250443/210488781-4fa1c5f2-ee57-4db7-8d49-8fbc61d856b1.png)
 
